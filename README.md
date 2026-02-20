@@ -1,3 +1,3 @@
 # .github
 
-Community health files for the SolarPointWP organization.
+Community health files for the SolarPoint organization.
