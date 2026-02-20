@@ -1,8 +1,8 @@
 # Security
 
-SolarPointWP takes the security of our software products and services seriously. We appreciate your efforts to responsibly disclose your findings and will make every effort to address them promptly.
+SolarPoint takes the security of our software products and services seriously. We appreciate your efforts to responsibly disclose your findings and will make every effort to address them promptly.
 
-Thank you for helping make SolarPointWP safe for everyone.
+Thank you for helping make SolarPoint safe for everyone.
 
 ## Reporting Security Issues
 
